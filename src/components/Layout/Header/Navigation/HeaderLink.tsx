@@ -23,7 +23,7 @@ const HeaderLink: React.FC<{ item: HeaderItem }> = ({ item }) => {
       onMouseLeave={handleMouseLeave}
     >
       <Link
-        href={`/${item.href}`}
+        href={`${item.href}`}
         className={`text-17 flex font-medium hover:text-primary capitalized  ${
           path === item.href ? "text-primary " : " text-muted "
         }`}
