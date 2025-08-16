@@ -25,12 +25,12 @@ npm run dev
 
 ## Author
 
-Design and code is completely written by Getnext.jsTemplates design and development team.  
+Design and code is completely written by Get next.js Templates design and development team.  
 
 
 ## License
 
- - Design and Code is Copyright &copy; [Getnext.jsTemplates](https://getnextjstemplates.com)
+ - Design and Code is Copyright &copy; [Get next.js Templates](https://getnextjstemplates.com)
  - Licensed cover under [MIT]
  - Distributed by [ThemeWagon](https://themewagon.com)
 
